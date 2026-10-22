@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://dk-portfolio-chronicle.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-8A74B8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/dikeledi-kwenaite-145327346"><img src="https://img.shields.io/badge/LinkedIn-4B2E83?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:nonydikeledi@gmail.com"><img src="https://img.shields.io/badge/Email-6E4FA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://dk-portfolio-chronicle.lovable.app/#contact"><img src="https://img.shields.io/badge/Contact_Me-6E4FA3?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact me"></a>
 </p>
 
 ---
@@ -47,4 +47,5 @@ to community crowdfunding.
 ## 📫 Let's connect
 
 I'm open to **Software Engineering and Data Engineering** opportunities.
-Reach me at **nonydikeledi@gmail.com** or through my [portfolio](https://dk-portfolio-chronicle.lovable.app/).
+**[Send me a message](https://dk-portfolio-chronicle.lovable.app/#contact)** through the contact form on my portfolio. It goes straight to my inbox.
+You can also email me at `nonydikeledi@gmail.com`.
