@@ -26,6 +26,24 @@ to community crowdfunding.
 | **[StudyBuddy AI](https://github.com/Dikeledi-K/ai_chatbot)** | Study assistant that explains, summarises and quizzes from your own notes | Node.js · Gemini API · OCR | [Live](https://ai-chatbot-theta-mocha.vercel.app/) |
 | **[Quality & Returns Intelligence](https://github.com/Dikeledi-K/sentiment_analysis)** | Sentiment analysis that surfaces product defects and return trends | Python · scikit-learn · Streamlit | [Live](https://sentimentanalysisgit-e5kmmnpan85xczqrsobmhf.streamlit.app/) |
 | **[iS'khaftin](https://github.com/Dikeledi-K/mini-app)** | Community micro-crowdfunding with traceable donations | Next.js · Base · Farcaster | [Live](https://mini-app-six-bay.vercel.app/) |
+| **[Kredit Book](https://github.com/Dikeledi-K/kredit-book)** | Offline credit book for spaza shops, with one-tap WhatsApp/SMS payment reminders | JavaScript · PWA | [Live](https://dikeledi-k.github.io/kredit-book/) |
+
+## 🚧 Currently building
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[SchoolConnect](https://github.com/Dikeledi-K/schoolconnect)** | AI help desk for public schools: classifies parent messages in 5 languages, routes them to staff, forecasts busy periods and protects learner data under POPIA | Python · Streamlit · Claude/Gemini |
+| **[Memora](https://github.com/Dikeledi-K/memora)** | Turns notes, PDFs and photos into flashcards, with spaced repetition paced to your exam date | Expo (React Native) · Supabase · Claude API |
+| **[SSR – School Smart Register](https://github.com/Dikeledi-K/ssr-school-smart-register)** | Phone-friendly daily, period and food registers for Grade R–12 schools, with per-school data isolation | JavaScript · Supabase · Edge Functions |
+
+## 🎓 What I built at WeThinkCode_
+
+Most of my coursework repositories are private, so here is what they cover:
+
+- **Data Engineering elective**: a six-week pipeline series that grew from a pandas ETL job to cloud extraction (GCS, S3), NoSQL and SQLite, PostgreSQL ingestion with schema checks, Apache Beam batch processing and Docker. The capstone was a **telecom streaming data platform** with Redpanda (Kafka), Debezium change data capture, PostgreSQL and a FastAPI usage API, all running in Docker Compose.
+- **Java and OOP**: grew a Toy Robot from a single class into **Robot World**, a multiplayer client-server game over TCP with JSON messages, built in a team of three. Also built **WeShare**, an MVC expense-sharing web app (Javalin and Thymeleaf), and a library catalogue covering SQL, JDBC, a REST API and Selenium tests.
+- **Software engineering foundations**: Python, test-driven development, recursion and backtracking (a Sudoku solver), refactoring money handling with value objects, and pair and mob programming.
+- **Mathematics for software**: algebra, calculus, probability (Bayes' theorem), statistics and linear programming, solved in tested Python code.
 
 ## 🛠️ Tech stack
 
@@ -40,7 +58,14 @@ to community crowdfunding.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka_/_Redpanda-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache_Beam-F26B21?style=flat-square&logo=apache&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
