@@ -9,7 +9,7 @@
 
 ---
 
-I build practical software with **AI and data** that solves real South African problems, from clinic queues
+I build practical software with **AI and data** that solves real South African problems, from school help desks and clinic queues
 to community crowdfunding.
 
 - 🎓 Graduated from **WeThinkCode_** (Occupational Certificate: Software Engineer, NQF 6) with a **Data Engineering** elective
@@ -21,6 +21,7 @@ to community crowdfunding.
 
 | Project | What it does | Built with | |
 |---|---|---|---|
+| **[SchoolConnect](https://github.com/Dikeledi-K/schoolconnect)** | AI help desk for public schools: classifies parent messages in 5 languages, routes and escalates them, forecasts busy weeks, sends weekly reports, and keeps child-safety messages with a person (POPIA-aware) | Python · FastAPI · Streamlit · PostgreSQL · scikit-learn | [Live](https://schoolconnect-web-cwa0.onrender.com) |
 | **[ClinicQ](https://github.com/Dikeledi-K/AI_Solution)** | AI patient intake and triage for public clinics, with danger-sign rules in 5 languages | Python · Streamlit · Claude API | [Live](https://nztdbvtrm3ve2ixwknarwg.streamlit.app/) |
 | **[CreateAI](https://github.com/Dikeledi-K/content_generation)** | Generates content, images, voice-overs and code from prompts and documents | React · Express · OpenRouter | [Live](https://contentgeneration-mocha.vercel.app/) |
 | **[StudyBuddy AI](https://github.com/Dikeledi-K/ai_chatbot)** | Study assistant that explains, summarises and quizzes from your own notes | Node.js · Gemini API · OCR | [Live](https://ai-chatbot-theta-mocha.vercel.app/) |
@@ -32,7 +33,6 @@ to community crowdfunding.
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[SchoolConnect](https://github.com/Dikeledi-K/schoolconnect)** | AI help desk for public schools: classifies parent messages in 5 languages, routes them to staff, forecasts busy periods and protects learner data under POPIA | Python · Streamlit · Claude/Gemini |
 | **[Memora](https://github.com/Dikeledi-K/memora)** | Turns notes, PDFs and photos into flashcards, with spaced repetition paced to your exam date | Expo (React Native) · Supabase · Claude API |
 | **[SSR – School Smart Register](https://github.com/Dikeledi-K/ssr-school-smart-register)** | Phone-friendly daily, period and food registers for Grade R–12 schools, with per-school data isolation | JavaScript · Supabase · Edge Functions |
 
@@ -62,6 +62,7 @@ Most of my coursework repositories are private, so here is what they cover:
 ![Apache Beam](https://img.shields.io/badge/Apache_Beam-F26B21?style=flat-square&logo=apache&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
